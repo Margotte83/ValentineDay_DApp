@@ -1,7 +1,6 @@
-<h1 align=center>
-<img src="https://res.cloudinary.com/defpadn0s/image/upload/v1644261447/ValendineDay_PopoCorn_yqaxkd.png" />
-</h1>
+![Dapp_valentineDay_NFTS](https://user-images.githubusercontent.com/55487019/154154060-08deb792-d125-48ab-9f7e-5c1ac37e04d0.png)
 
+<h1 align=center></h1>
 <div align="center">
   
 ![License](https://img.shields.io/badge/license-MIT-737CA1?style=flat-square) 
@@ -96,3 +95,4 @@ $ npx hardhat run scripts/deploy.js --network ropsten
 <br/>
   Made with :☕ and ❤️ by <b>Marjorie Ngoupende</b>.
 <p/>
+
