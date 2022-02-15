@@ -49,6 +49,12 @@ button.btn.btn-danger {
   padding: 10px;
   margin-top: 40px;
 }
+.textColor{
+  color: rgb(255, 0, 0);
+  font-weight: 400;
+  font-size: 15px;
+ 
+}
 /*Responsive*/
 @media only screen and (max-width: 855px) {
   .App {
